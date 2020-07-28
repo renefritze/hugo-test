@@ -2,6 +2,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://rene.fritze.me/hugo-test/download/</loc>
+      <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
       <loc>https://rene.fritze.me/hugo-test/about/</loc>
       <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     </url>
